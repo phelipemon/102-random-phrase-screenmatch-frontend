@@ -1,8 +1,6 @@
-![thumbnail-Desafio Java (1)](https://github.com/jacqueline-oliveira/3356-java-desafio-front/assets/66698429/6f1cf2db-ca91-493b-b37c-2c08ad2afc50)
-
 # Front-end da aplicação: Frases clássicas de filmes e séries ScreenMatch
 
-Essa é a aplicação Front-end que será utilizada no desafio proposto na última aula do curso.
+Essa é a aplicação Front-end que será utilizada no [Gerador de frases](https://github.com/phelipemon/102-random-phrase-screenmatch)
 
 Para visualizar a mesma, após o download ou clone do projeto, abra-a com o VS Code
 
@@ -13,14 +11,12 @@ Feito isso, clique com o botão direito no arquivo **index.html** e escolha "Ope
 A princípio, caso a sua API ainda não esteja desenvolvida, o conteúdo que você verá será esse abaixo:
 
 
-![image](https://github.com/jacqueline-oliveira/3356-java-desafio-front/assets/66698429/4b612a93-09d8-4376-8c30-8b18fbecd2fc)
+![image](https://github.com/phelipemon/102-random-phrase-screenmatch-frontend/blob/main/assets/no_phrase.jpg)
 
 
 
-Após a finalização do desafio, seu projeto estará completo e a aplicação irá mostrar os dados, de forma similar à abaixo:
+Após o download ou clone da API com as rotas prontas, a aplicação irá mostrar os dados, de forma similar à abaixo:
 
 
-![image](https://github.com/jacqueline-oliveira/3356-java-desafio-front/assets/66698429/bbd2799d-1360-4f0d-9330-f3a002c1a8c4)
+![image](https://github.com/phelipemon/102-random-phrase-screenmatch-frontend/blob/main/assets/phrase_rocky.jpg)
 
-
-# Bom desafio!
